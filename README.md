@@ -1,0 +1,4 @@
+spectro
+=======
+
+DIY Spectrometer software
